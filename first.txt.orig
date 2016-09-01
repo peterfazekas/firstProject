@@ -1,0 +1,9 @@
+This is my forst version of file
+<<<<<<< HEAD
+his is the 2nd line
+||||||| merged common ancestors
+This is the 2nd line
+=======
+Master commit finally
+
+>>>>>>> master
